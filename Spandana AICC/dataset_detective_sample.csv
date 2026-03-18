@@ -1,0 +1,11 @@
+id,name,age,height_cm,weight_kg,salary,department,performance_score
+1,John,28,175,70,50000,Sales,88
+2,Alice,34,160,60,62000,Marketing,92
+3,Bob,45,180,80,58000,Sales,85
+4,Diana,23,165,55,48000,HR,90
+5,Charlie,39,170,75,,Finance,87
+6,Eva,,160,62,60000,Marketing,89
+7,Frank,50,185,90,70000,Finance,93
+8,Gina,29,,65,52000,HR,88
+9,Hank,41,175,85,62000,Sales,91
+10,Ivy,33,168,58,61000,Marketing,90

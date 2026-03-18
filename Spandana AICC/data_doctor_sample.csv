@@ -1,0 +1,11 @@
+id,name,age,department,salary
+1,John,28,Sales,50000
+2,Alice,34,Marketing,62000
+3,Bob,45,Sales,58000
+4,Diana,,HR,48000
+5,Charlie,39,Finance,
+6,Eva,,Marketing,60000
+7,Frank,50,Finance,70000
+8,Gina,29,HR,52000
+9,Hank,41,Sales,62000
+10,alice,34,marketing,62000
